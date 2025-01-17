@@ -1,4 +1,4 @@
-**Bank Management System**
+# **Bank Management System**
 
 Welcome to the **Bank Management System**! This project simulates basic banking functionalities using Python. It provides a simple, interactive console-based system where customers can perform various banking operations like deposits, withdrawals, balance inquiries, and PIN management.
 
